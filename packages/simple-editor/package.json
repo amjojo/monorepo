@@ -1,0 +1,19 @@
+{
+  "name": "simple-editor",
+  "version": "1.0.0",
+  "description": "a simple editor with canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amjojo/monorepo.git"
+  },
+  "author": "rrwang1701@126.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amjojo/monorepo/issues"
+  },
+  "homepage": "https://github.com/amjojo/monorepo#readme"
+}
